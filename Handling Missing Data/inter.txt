@@ -1,0 +1,14 @@
+interpolation
+10
+20
+Nan change into 30,bcz it follow existing number
+40
+50
+
+lunear
+
+1-preserve data integrity
+2-smooth trends
+3-avoid data loose
+
+interpolate() it get the estimate of value on the point of other database value
