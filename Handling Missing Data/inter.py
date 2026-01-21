@@ -8,6 +8,11 @@ data = {
 df = pd.DataFrame(data)
 print("sample data frame")
 print(df)
-# liner,,polynomial,time
+# liner,,polynomial,time homework
 df.interpolate(method='linear',axis=0, inplace=True)
 print(df)
+"""
+1-timer series data
+2-numeric data with trend
+3-avoid dropping rows
+"""
